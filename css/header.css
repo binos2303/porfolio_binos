@@ -16,18 +16,18 @@ img{
     cursor: pointer;
 }
 nav{
-    width: 35%;
+    width: 30%;
     height: 100%;
     align-items: center;
     align-content: center;
-    font-weight: 600;
-    font-size: 18px;
+    font-weight: 550;
+    font-size: 17px;
 }
 .nav_links{
     list-style: none;
     display: flex;
     justify-content: space-between;
-    justify-items:auto;
+    justify-items: auto;
     margin: 0;
     padding: 0;
     align-items: center;
