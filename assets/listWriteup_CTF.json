@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "HackTheBox - Lame",
+        "date": "2023-01-15",
+        "description": "Phân tích và khai thác lỗ hổng trên máy chủ Lame của HackTheBox, sử dụng các kỹ thuật leo thang đặc quyền.",
+        "link": "#",
+        "tags": ["HackTheBox", "Lame", "Exploit", "Privilege Escalation"]
+    },
+    {
+        "id": 2,
+        "title": "TryHackMe - RootMe",
+        "date": "2022-12-20",
+        "description": "Hướng dẫn từng bước để chiếm quyền điều khiển máy RootMe trên TryHackMe, từ quét cổng đến đọc cờ cuối cùng.",
+        "link": "#",
+        "tags": ["TryHackMe", "Web Exploitation", "Linux"]
+    },
+    {
+        "id": 3,
+        "title": "CTF Tên cuộc thi - Tên thử thách",
+        "date": "2023-02-01",
+        "description": "Giải thích chi tiết về cách giải một thử thách Cryptography phức tạp trong một cuộc thi CTF gần đây.",
+        "link": "#",
+        "tags": ["CTF", "Cryptography", "Reverse Engineering"]
+    }
+]

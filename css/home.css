@@ -1,0 +1,30 @@
+#profile_content {
+    display: flex;
+    justify-content: space-between;
+}
+
+#profile_content-aside {
+    width: 30%;
+    height: 60%;
+    background-color: rgb(50, 50, 50);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#profile-picture {
+    width: 85%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#profile_content-article {
+    padding: 20px;
+    color: white;
+    width: 65%;
+    height: 85%;
+    background-color: rgb(50, 50, 50);
+    border-radius: 10px;
+}
+

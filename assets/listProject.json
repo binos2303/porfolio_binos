@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Fat Cats",
+    "description": "Description of Project 1. Là một trang web tĩnh đơn giản giới thiệu về các figures (đồ chơi mô hình).",
+    "image": "./assets/images/project1.jpg",
+    "link": "https://binos2303.github.io/fatcats/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "Portfolio",
+    "description": "Description of Project 2. Là một trang web cá nhân để giới thiệu về bản thân và các dự án đã thực hiện.",
+    "image": "./assets/images/project2.jpg",
+    "link": "https://binos2303.github.io/Porfolio-Project/",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 3,
+    "title": "Blog Template",
+    "description": "Description of Project 3. Là một mẫu blog đơn giản với giao diện đẹp mắt và dễ sử dụng.",
+    "image": "./assets/images/project3.jpg",
+    "link": "https://binos2303.github.io/Blog-Template/",
+    "technologies": ["HTML", "CSS"]
+  }
+]
